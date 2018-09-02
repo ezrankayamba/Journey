@@ -1,0 +1,13 @@
+{
+    "name": "jmp",
+    "main": "server.js",
+    "dependencies": {
+        "bluebird": "^3.5.1",
+        "body-parser": "~1.0.1",
+        "express": "~4.0.0",
+        "sqlite3": "^4.0.2"
+    },
+    "devDependencies": {
+        "nodemon": "^1.18.3"
+    }
+}
